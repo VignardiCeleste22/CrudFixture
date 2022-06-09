@@ -1,0 +1,14 @@
+﻿body {
+    background-color: darkcyan;
+    background-image: linear-gradient(#81D4FA,#AED6F1, #D6EAF8 );
+}
+p, h1, h2, div, tbody, table, thead {
+    color: #000033;
+    font-family: Crimson text;
+}
+
+.img{
+    width:1000px;
+    height:600px;
+    padding:20px;
+}
