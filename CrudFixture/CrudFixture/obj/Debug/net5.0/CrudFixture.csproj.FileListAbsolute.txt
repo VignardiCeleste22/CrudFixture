@@ -23,7 +23,6 @@ D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\CrudFixture.TagHelpers.i
 D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\CrudFixture.TagHelpers.output.cache
 D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\CrudFixture.RazorCoreGenerate.cache
 D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -145,3 +144,5 @@ D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Fixture\Inde
 D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Fixture\Create.cshtml.g.cs
 D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Fixture\Delete.cshtml.g.cs
 D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Fixture\Edit.cshtml.g.cs
+D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Fixture\Plantel.cshtml.g.cs
+D:\CrudFixture\CrudFixture\CrudFixture\obj\Debug\net5.0\Razor\Views\Home\Resumenes.cshtml.g.cs

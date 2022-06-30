@@ -23,7 +23,7 @@ namespace CrudFixture.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Resumenes()
         {
             return View();
         }

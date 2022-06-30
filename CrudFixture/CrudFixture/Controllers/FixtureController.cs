@@ -113,6 +113,13 @@ namespace CrudFixture.Controllers
             return RedirectToAction("Index");
 
         }
+        //Http get Create
+        public IActionResult Plantel()
+        {
+            return View();
+        }
+        
+    
 
     }
 }
